@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\bin\Debug\net8.0-windows\Class.deps.json
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\bin\Debug\net8.0-windows\Class.dll
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\bin\Debug\net8.0-windows\Class.pdb
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.ogrenci_form.resources
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.Yetkili_form.resources
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.dll
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\refint\Class.dll
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\Class.pdb
+C:\Users\Administrator\Desktop\C# 2024\Project_KURS\Class\obj\Debug\net8.0-windows\ref\Class.dll
